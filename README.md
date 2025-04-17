@@ -1,6 +1,6 @@
 ### Hi 👋! My name is Albeiro Ramos, I'm passionate about tech education and a future technology teacher from Bogotá, Colombia 🇨🇴
 
-<img align="right" height="150" src="https://tenor.com/es-419/view/happy-poro-gif-20547876f" />
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 
 [![Python](https://img.shields.io/badge/Python-3.12+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 [![Made with ChatGPT](https://img.shields.io/badge/Made_with-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://openai.com/chatgpt)
