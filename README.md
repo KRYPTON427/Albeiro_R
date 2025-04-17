@@ -22,5 +22,6 @@ Contact me: rsalbeiro02@gmail.com
 
 
 ### 🔹 Actividad: Operadores Lógicos
-📁 [`LOGICOS.md`](./ACTIVIDAD%20OPERADORES%20LOGICOS/LOGICOS.MD) 
+[![ACTIVIDAD: OPERADORES LÓGICOS](https://img.shields.io/badge/ACTIVIDAD-OPERADORES%20LÓGICOS-blueviolet)](./ACTIVIDAD%20OPERADORES%20LOGICOS/LOGICOS.MD)
+
 
