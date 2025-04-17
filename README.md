@@ -1,4 +1,4 @@
-### Hi 👋! My name is Albeiro Ramos, I'm passionate about **tech education** and a future **technology teacher** from **Bogotá, Colombia 🇨🇴**.  
+### Hi 👋! My name is Albeiro Ramos, I'm passionate about **technology education** and a future **technology teacher** from **Bogotá, Colombia 🇨🇴**.  
 I’m currently studying **Licenciatura en Diseño Tecnológico** at **Universidad Pedagógica Nacional (UPN)**, This work focuses on the topic of **computer science II**.
 
 
