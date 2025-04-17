@@ -16,16 +16,7 @@ Los operadores aritméticos se utilizan para realizar operaciones matemáticas (
 |  //  | a // b     | División entera |
 |  **  | a ** b     |  Exponente |
 
-Ejemplos:
 
-```python
-x = 5	
-y = 2
-print(x + y) # 7
-print(x - y) # 3
-print(x * y) # 10
-print(x / y) # 2.5
-```
 
 
 ## Operadores relacionales o de comparación
