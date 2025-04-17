@@ -21,5 +21,6 @@ promoting autonomous learning and the development of skills in applied technolog
 Contact me: rsalbeiro02@gmail.com  
 
 
-
+### 🔹 Actividad: Operadores Lógicos
+📁 [`LOGICOS.md`](./ACTIVIDAD%20OPERADORES%20LOGICOS/LOGICOS.MD) 
 
