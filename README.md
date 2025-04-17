@@ -22,7 +22,7 @@ Contact me: rsalbeiro02@gmail.com
 
 
 ### 🔹 Actividad: Operadores Lógicos
-[![DOCUMENTACIÓN: OPERADORES LÓGICOS](https://img.shields.io/badge/DOCUMENTACIÓN-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
+[![DOCUMENTACIÓN: OPERADORES LÓGICOS](https://img.shields.io/badge/DOCUMENTACIÓN-OPERADORES%20LÓGICOS-blueviolet)](./ACTIVIDAD OPERADORES LOGICOS/documentacion_operadores_logicos.md)  
 [![ACTIVIDAD: OPERADORES LÓGICOS](https://img.shields.io/badge/ACTIVIDAD-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/logicos.md)
 
 
