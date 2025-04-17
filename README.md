@@ -1,5 +1,5 @@
 ### Hi 👋! My name is Albeiro Ramos, I'm passionate about **technology education** and a future **technology teacher** from **Bogotá, Colombia 🇨🇴**.  
-I’m currently studying **Licenciatura en Diseño Tecnológico** at **Universidad Pedagógica Nacional (UPN)**, This work focuses on the topic of **computer science II**.
+I’m currently studying **Licenciatura en Diseño Tecnológico** at **Universidad Pedagógica Nacional (UPN)**, This work focuses on the topic of **INFORMATICA II**.
 
 
 [![Universidad Pedagógica Nacional](https://img.shields.io/badge/Universidad_Pedag%C3%B3gica_Nacional-UPN-0066cc?style=for-the-badge&logo=university&logoColor=white&labelColor=101010)](https://www.upn.edu.co/)
