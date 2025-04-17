@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 [![Made with ChatGPT](https://img.shields.io/badge/Made_with-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://openai.com/chatgpt)
 [![Bogotá](https://img.shields.io/badge/Based_in-Bogotá-ff5733?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010)](https://www.google.com/maps/place/Bogotá)
+[![Reflex](https://img.shields.io/badge/Reflex-0.7.2+-5646ED?style=for-the-badge&logo=reflex&logoColor=white&labelColor=101010)](https://reflex.dev)
 
 🚀 I'm passionate about using **technology and artificial intelligence** to transform education and inspire young minds.  
 💡 Currently working on: An **OVA to teach Python and AI** to students in an engaging and accessible way.  
