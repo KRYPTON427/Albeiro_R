@@ -53,3 +53,5 @@ Variables: `a = 6`, `b = 3`, `c = 9`
 30. `not ((a == 6 and b == 3) or (c == 9 and b == 3))`
 
 ---
+
+[Voler al Inicio](./README.md)
