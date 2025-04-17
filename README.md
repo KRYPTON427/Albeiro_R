@@ -3,9 +3,9 @@ I’m currently studying **Licenciatura en Diseño Tecnológico** at **Universid
 
 
 [![Universidad Pedagógica Nacional](https://img.shields.io/badge/Universidad_Pedag%C3%B3gica_Nacional-UPN-0066cc?style=for-the-badge&logo=university&logoColor=white&labelColor=101010)](https://www.upn.edu.co/)
-[![Python](https://img.shields.io/badge/Python-3.12+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
-[![Made with ChatGPT](https://img.shields.io/badge/Made_with-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://openai.com/chatgpt)
 [![Based in Bogotá](https://img.shields.io/badge/Based_in-Bogotá-ff5733?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010)](https://www.google.com/maps/place/Bogotá)
+[![Python](https://img.shields.io/badge/Python-3.12+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![Made with ChatGPT](https://img.shields.io/badge/Made_with-ChatGPT_API-10a37f?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://openai.com/chatgpt)
 [![Canva](https://img.shields.io/badge/Tools-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)](https://www.canva.com/)
 [![Genially](https://img.shields.io/badge/Tools-Genially-ffcc00?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.genial.ly/)
 [![Quizizz](https://img.shields.io/badge/Tools-Quizizz-a033ff?style=for-the-badge&logoColor=white&labelColor=101010)](https://quizizz.com/) 
