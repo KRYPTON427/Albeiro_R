@@ -54,5 +54,4 @@ Variables: `a = 6`, `b = 3`, `c = 9`
 
 ---
 
-[Vovler al Inicio](./README.md)
 [Volver al Inicio](./README.md)
