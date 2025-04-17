@@ -42,5 +42,5 @@ Los operadores lógicos `and` `or`, y `not` evalúan valores devolviendo tambié
 | or   | a or b     | True si a o b son true|
 | not   | not b     | True si b es falso|
 
-<a href=""><button>Ir al otro archivo</button></a>
+<a href="./actividad_operadores_logicos/logicos.md"><button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Ir a Operadores Lógicos</button></a>
 
