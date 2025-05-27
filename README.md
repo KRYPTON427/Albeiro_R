@@ -25,6 +25,34 @@ Contact me: rsalbeiro02@gmail.com
 [![DOCUMENTACIÓN: OPERADORES LÓGICOS](https://img.shields.io/badge/DOCUMENTACIÓN-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
 [![ACTIVIDAD: OPERADORES LÓGICOS](https://img.shields.io/badge/ACTIVIDAD-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/logicos.md)
 
+### 🔹 Actividad: Estructuras Selectivas 
+
+[![DOCUMENTACIÓN: OPERADORES LÓGICOS](https://img.shields.io/badge/DOCUMENTACIÓN-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Variables y tipos de Datos.
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Estructuras de control aplicadas (if, for, while)
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Listas
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Tuplas
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Diccionarios
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Módulos y librerías (pandas / numpy) 
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Manejo de archivos .txt / .csv
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
+### 🔹 Actividad: Vibe coding
+[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
 
 
 
