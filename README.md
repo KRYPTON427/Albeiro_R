@@ -26,36 +26,37 @@ Contact me: rsalbeiro02@gmail.com
 [![ACTIVIDAD: OPERADORES LÓGICOS](https://img.shields.io/badge/ACTIVIDAD-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/logicos.md)
 
 ### 🔹 Actividad: Estructuras Selectivas 
-[![DOCUMENTACIÓN: E](https://img.shields.io/badge/DOCUMENTACIÓN-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
-[![ACTIVIDAD: E](https://img.shields.io/badge/ACTIVIDAD-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/logicos.md)
+[![DOCUMENTACIÓN: Estructuras Selectivas](https://img.shields.io/badge/DOCUMENTACIÓN-ESTRUCTURAS%20SELECTIVAS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
+[![Actividad: Estructuras Selectivas](https://img.shields.io/badge/ACTIVIDAD-ESTRUCTURAS%20SELECTIVAS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
 
 
 ### 🔹 Actividad: Variables y tipos de Datos.
-
-[![DOCUMENTACIÓN: Variables y tipos de Datos.](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
-[![ACTIVIDAD: Variables y tipos de Datos.](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+[![DOCUMENTACIÓN: Variables y tipos de Datos](https://img.shields.io/badge/DOCUMENTACIÓN-VARIABLES_Y_%20TIPOS_DE_DATOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
+[![Actividad: Estructuras Selectivas](https://img.shields.io/badge/ACTIVIDAD-VARIABLES_Y_%20TIPOS_DE_DATOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
 
 
 ### 🔹 Actividad: Estructuras de control aplicadas (if, for, while)
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+[![DOCUMENTACIÓN: Operadores Lógicos](https://img.shields.io/badge/DOCUMENTACIÓN-ESTRUCTURAS_DE_CONTROL%20IF_FOR_WHILE-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)
+
+[![DOCUMENTACIÓN: Operadores Lógicos](https://img.shields.io/badge/ACTIVIDAD-ESTRUCTURAS_DE_CONTROL%20IF_FOR_WHILE-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)
+
 
 ### 🔹 Actividad: Listas
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
 
 ### 🔹 Actividad: Tuplas
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
 
 ### 🔹 Actividad: Diccionarios
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
 
 ### 🔹 Actividad: Módulos y librerías (pandas / numpy) 
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
 
 ### 🔹 Actividad: Manejo de archivos .txt / .csv
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
+
 
 ### 🔹 Actividad: Vibe coding
-[![ACTIVIDAD: Estruturas Selectivas](https://img.shields.io/badge/ACTIVIDAD-Estructuras%20Selectivas-blueviolet)](./actividad_operadores_logicos/logicos.md)
 
 
 
