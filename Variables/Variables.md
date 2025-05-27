@@ -3,7 +3,7 @@
 Las variables permiten **almacenar datos del programa**. Estas serán de un tipo u otro en función de la información que se guarde en ellas.
 
 ```python
-nombre = 'Amaia' # cadena de texto
+nombre = 'Brigithe' # cadena de texto
 edad = 30 # número entero
 ```
 El nombre de una variable se conoce como **identificador**, y deberá cumplir las siguientes reglas:
