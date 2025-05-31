@@ -4,7 +4,7 @@ Este repositorio explica las **estructuras selectivas** simples, dobles y compue
 
 ---
 
-## ✅ 1. Estructura Selectiva Simple
+##  1. Estructura Selectiva Simple
 
 Permite ejecutar un bloque de instrucciones **solo si** una condición es verdadera.
 
