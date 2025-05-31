@@ -1,7 +1,13 @@
 # Actividad: Ejercicios de Estructuras Selectivas
 
 ## Instrucciones
-**Desarrolla todos los ejercicios en tu cuaderno.**  
+Los siguientes ejercicios se pueden elaborar en las siguientes plataformas digitales, que permiten desarrollar, practicar y presentar diagramas de flujo de forma interactiva, visual y accesible:
+
+Draw.io (diagrams.net) Plataforma gratuita y fácil de usar, ideal para estudiantes. Permite guardar diagramas en la nube (Google Drive, OneDrive) o localmente. No requiere registro.
+
+Lucidchar tHerramienta intuitiva con opciones de colaboración en tiempo real. Ofrece un plan gratuito con funciones suficientes para uso académico. Se integra con Google Workspace.CanvaAunque es más conocida por el diseño gráfico 
+
+Canva también permite crear diagramas de flujo con plantillas atractivas y elementos visuales fáciles de personalizar.
 
 
 ---
