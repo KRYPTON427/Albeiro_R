@@ -32,7 +32,7 @@ Permite ejecutar un bloque de instrucciones **solo si** una condición es verdad
 
 ---
 
-## 1. Estructura Selectiva Simple
+#  Estructura Selectiva Simple
 
 La **estructura selectiva simple** permite ejecutar un bloque de instrucciones **solo si** una condición lógica se evalúa como verdadera. Es una de las estructuras de control más básicas, pero fundamentales en programación.
 
@@ -45,17 +45,18 @@ La **estructura selectiva simple** permite ejecutar un bloque de instrucciones *
 
 ###  Descripción del flujo:
 
-1. El proceso comienza.
+1. El proceso inicia.
 2. Se evalúa la condición: ¿Está oscuro?
 3. Si la condición es verdadera, se ejecuta la acción: **encender la lámpara**.
-4. El proceso finaliza.
+4. Si la condición es falsa, se ejecuta una acción alternativa: **apagar la lámpara**.
+5. El proceso finaliza.
 
 ---
 
 ##  Forma general
 
 <a href="https://github.com/KRYPTON427/Albeiro_R/blob/main/Estructura%20simple.png">
-  <img src="https://github.com/KRYPTON427/Albeiro_R/blob/main/Estructura%20simple.png" alt="Diagrama Estructura Selectiva Simple" width="600"/>
+  <img src="https://github.com/KRYPTON427/Albeiro_R/blob/main/Estructura%20doble.png"/>
 </a>
 
 ---
@@ -63,19 +64,73 @@ La **estructura selectiva simple** permite ejecutar un bloque de instrucciones *
 ##  ¿Cómo funciona?
 
 - **Inicio:**  
-  Punto de partida del flujo de ejecución.
+  Marca el inicio del flujo.
 
 - **Condición:**  
-  Se evalúa una condición lógica que debe ser verdadera o falsa.
+  Se evalúa una expresión lógica (verdadera o falsa).
 
-- **Ejecutar acción:**  
-  Si la condición se cumple (es verdadera), se ejecuta una acción específica.
+- **Si es verdadera:**  
+  Se ejecuta la acción principal.
+
+- **Si es falsa:**  
+  Se ejecuta una acción alternativa.
 
 - **Fin:**  
-  El flujo finaliza sin importar si se ejecutó o no la acción.
+  El flujo continúa después de ejecutarse una de las dos opciones.
+  
+---
+
+# Estructura Selectiva Múltiple
+
+La **estructura selectiva múltiple** permite evaluar una condición que puede tener **varios resultados posibles**, y ejecutar diferentes bloques de instrucciones según el valor obtenido. Es ideal cuando se deben manejar **más de dos alternativas**.
 
 ---
 
+##  Ejemplo práctico
 
+> **Problema:**  
+> *Dependiendo del día de la semana, realizar una actividad distinta.*
+
+###  Descripción del flujo:
+
+1. El proceso comienza.
+2. Se evalúa una variable (por ejemplo: día de la semana).
+3. Según el valor, se ejecuta un bloque de instrucciones diferente:
+   - Si es lunes → estudiar.
+   - Si es martes → entrenar.
+   - Si es miércoles → descansar.
+   - ...
+4. Si no coincide con ninguno, se puede definir un caso por defecto.
+5. El proceso finaliza.
+
+---
+
+##  Forma general
+
+<a href="https://github.com/KRYPTON427/Albeiro_R/blob/main/Estrutura%20multiple%20.png">
+  <img src="https://github.com/KRYPTON427/Albeiro_R/blob/main/Estrutura%20multiple%20.png" alt="Diagrama Estructura Selectiva Múltiple" />
+</a>
+
+---
+
+##  ¿Cómo funciona?
+
+- **Inicio:**  
+  Se inicia el flujo del proceso.
+
+- **Evaluar condición:**  
+  Se analiza el valor de una variable o expresión.
+
+- **Seleccionar caso:**  
+  Se compara el valor con múltiples casos posibles (caso 1, caso 2, ..., caso n).
+
+- **Ejecutar acción según el caso:**  
+  Se ejecuta el bloque de instrucciones correspondiente al caso coincidente.
+
+- **Caso por defecto (opcional):**  
+  Si ningún caso coincide, se ejecuta un bloque alternativo.
+
+- **Fin:**  
+  Finaliza el flujo del proceso.
 
 
