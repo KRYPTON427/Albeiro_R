@@ -134,3 +134,4 @@ La **estructura selectiva múltiple** permite evaluar una condición que puede t
   Finaliza el flujo del proceso.
 
 
+[Ir a Actividad Operadores Lógicos](Estructuras_selectivas/Actividad_Estructuras_Selectivas.md)
