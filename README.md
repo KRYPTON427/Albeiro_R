@@ -9,6 +9,7 @@ I’m currently studying **Licenciatura en Diseño Tecnológico** at **Universid
 [![Canva](https://img.shields.io/badge/Tools-Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)](https://www.canva.com/)
 [![Genially](https://img.shields.io/badge/Tools-Genially-ffcc00?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.genial.ly/)
 [![Quizizz](https://img.shields.io/badge/Tools-Quizizz-a033ff?style=for-the-badge&logoColor=white&labelColor=101010)](https://quizizz.com/) 
+[![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
 <img align="right"  src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 
