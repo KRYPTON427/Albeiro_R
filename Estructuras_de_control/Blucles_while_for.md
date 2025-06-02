@@ -1,7 +1,7 @@
 ## Bucles
 Los bucles permiten ejecutar un bloque de código tantas veces como queramos. 
 
-### Sentencia WHILE
+# Sentencia WHILE
 
 La sentencia `while` permite ejecutar un bloque de código mientras la expresión que definamos se cumpla (es decir, devuelva `True`). Python interpretará como `True` cualquier valor distinto a `0` o `None`.
 
