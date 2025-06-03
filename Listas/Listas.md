@@ -100,4 +100,4 @@ Una acción típica de las tuplas es "desempaquetar" (unpack) sus valores, es de
     print(var2)      # 'Hola' 
     print(var3)      # 2.5
 ```
-[Ir a Actividad Listas y Tuplas](./actividad_listas_tuplas.md)
+[Ir a Actividad Listas y Tuplas](./actividad_Listas_tuplas.md)
