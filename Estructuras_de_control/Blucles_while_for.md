@@ -61,3 +61,90 @@ while(count < 5):
 else:
     print("Bucle while finalizado")
  ```   
+# Sentencia FOR
+A diferencia de otros lenguajes de programación, en Python la sentencia FOR itera únicamente por secuencias (listas, tuplas, cadenas de caracteres,...).
+
+```python
+alumnos = ["Ane", "Mikel", "Unai", "Lorea"]
+for alumno in alumnos:
+    print(alumno)
+```
+
+También es posible utilizarlo para recorrer un string:
+
+```python
+frase = "Aprendiendo Python"
+for c in frase:
+    print(c)
+```
+
+Para detener una ejecución se utiliza la sentencia `break`:
+
+```python
+numeros = [4,8,2,7,1,9,3,5]
+total = 0
+
+for n in numeros:
+    total += n
+    if total > 10
+        break
+```
+
+Al igual que en otras estructuras de repetición, también es posible saltar únicamente la iteración actual mediante la sentencia `continue`:
+
+```python
+numeros = [4,8,2,7,1,9,3,5]
+total = 0
+
+# solo sumar los números impares
+for num in numeros:
+    if num % 2 == 0:
+        print("Numero par, no lo sumamos")
+        continue
+    total += n
+```
+
+#### Bucle FOR con ELSE
+Python permite definir un bloque de código que se ejecutará una vez finalice la iteración por todos los elementos de una lista. Es importante mencionar que no se ejecutará si se ha finalizado mediante `break`.
+
+```python
+alumnos = ["Ane", "Mikel", "Unai", "Lorea"]
+for alumno in alumnos:
+    print(alumno)
+else:
+    print("No quedan más alumnos.")
+```
+
+#### La función range()
+
+La función `range([start,]  stop  [,  step])` devuelve una secuencia de números. Es por ello que se utiliza de forma frecuente para iterar:
+
+```python
+for i in range(3):
+    print(i)
+# 0
+# 1
+# 2
+```
+
+También podemos indicar el inicio, fin y step:
+
+```python
+print("Números del 5 al 10") 
+for i in range(5,  10): 
+    print(i,  end=', ')
+# 5,  6,  7,  8,  9,
+
+print("Números impares del 1 al 10")
+for i in range(1,  10,  2):
+    print(i,  end=', ')
+# 1,  3,  5,  7,  9,
+```
+
+Para iterar por una lista utilizando el índice, basta con combinarlo con la función `len()`:
+
+```python
+    alumnos = ["Ane", "Mikel", "Unai", "Lorea"]
+    for i in range(len(alumnos)):
+    	print(alumnos[i])
+```
