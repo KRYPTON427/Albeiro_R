@@ -22,44 +22,6 @@ promoting autonomous learning and the development of skills in applied technolog
 Contact me: rsalbeiro02@gmail.com  
 
 
-### 🔹 Actividad: Operadores Lógicos
-[![DOCUMENTACIÓN: OPERADORES LÓGICOS](https://img.shields.io/badge/DOCUMENTACIÓN-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
-[![ACTIVIDAD: OPERADORES LÓGICOS](https://img.shields.io/badge/ACTIVIDAD-OPERADORES%20LÓGICOS-blueviolet)](./actividad_operadores_logicos/logicos.md)
-
-### 🔹 Actividad: Estructuras Selectivas 
-[![DOCUMENTACIÓN: Estructuras Selectivas](https://img.shields.io/badge/DOCUMENTACIÓN-ESTRUCTURAS%20SELECTIVAS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
-[![Actividad: Estructuras Selectivas](https://img.shields.io/badge/ACTIVIDAD-ESTRUCTURAS%20SELECTIVAS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
-
-
-### 🔹 Actividad: Variables y tipos de Datos.
-[![DOCUMENTACIÓN: Variables y tipos de Datos](https://img.shields.io/badge/DOCUMENTACIÓN-VARIABLES_Y_%20TIPOS_DE_DATOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
-[![Actividad: Estructuras Selectivas](https://img.shields.io/badge/ACTIVIDAD-VARIABLES_Y_%20TIPOS_DE_DATOS-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)  
-
-
-### 🔹 Actividad: Estructuras de control aplicadas (if, for, while)
-[![DOCUMENTACIÓN: Operadores Lógicos](https://img.shields.io/badge/DOCUMENTACIÓN-ESTRUCTURAS_DE_CONTROL%20IF_FOR_WHILE-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)
-
-[![DOCUMENTACIÓN: Operadores Lógicos](https://img.shields.io/badge/ACTIVIDAD-ESTRUCTURAS_DE_CONTROL%20IF_FOR_WHILE-blueviolet)](./actividad_operadores_logicos/documentacion_operadores_logicos.md)
-
-
-### 🔹 Actividad: Listas
-
-
-### 🔹 Actividad: Tuplas
-
-
-### 🔹 Actividad: Diccionarios
-
-
-### 🔹 Actividad: Módulos y librerías (pandas / numpy) 
-
-
-### 🔹 Actividad: Manejo de archivos .txt / .csv
-
-
-### 🔹 Actividad: Vibe coding
-
-
 
 
 
