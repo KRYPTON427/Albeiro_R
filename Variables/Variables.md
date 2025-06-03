@@ -75,3 +75,4 @@ print(mi_nombre)
 mi_nombre= "Ane"
 print(mi_nombre)
 ```
+[Ir a Actividad Variables](./Actividad_Variables.md)
