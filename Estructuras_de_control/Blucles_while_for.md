@@ -148,3 +148,4 @@ Para iterar por una lista utilizando el índice, basta con combinarlo con la fun
     for i in range(len(alumnos)):
     	print(alumnos[i])
 ```
+[Ir a Actividad Estructura FOR WHILE](./actividad FOR WHHILE.md)
