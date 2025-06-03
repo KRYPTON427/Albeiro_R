@@ -99,3 +99,4 @@ edades.pop("Aitor")
 ```
 Un diccionario nunca debería contener dos claves iguales. No obstante, en caso de contener una clave repetida, tanto `del` como `pop()` eliminarán todas las claves coincidentes.
 
+[Ir a Actividad Diccionarios](./Actividad_Diccionarios.md)
